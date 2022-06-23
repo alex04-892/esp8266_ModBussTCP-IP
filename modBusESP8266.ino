@@ -3,7 +3,7 @@
   * description: esp8266 is a TCP server, it converts the modbasTCP data packet to modbasRTU and sends it to uart.
   * author: Alex
   * date: 03.06.2022
-  * version ..
+  * 
   */
 #include <ESP8266WiFi.h>
 #include "functions.h"
